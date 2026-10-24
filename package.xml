@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Panda's Ally Fuse Mod</title>
+  <id>Mod_PandaAllyFuseMod</id>
+  <author>Now Happy Panda</author>
+  <loadPriority>100</loadPriority>
+  <description>Allow ally to fuse into Little Girlmaton or Imoutomaton in battle or outside battle, high affinity ally are blocked from fusing unless debug is turned on</description>
+  <version>0.23.356</version>
+</Meta>
